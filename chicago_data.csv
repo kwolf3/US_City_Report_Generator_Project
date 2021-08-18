@@ -1,0 +1,826 @@
+﻿Location,Station,Date,Time,Temperature (F),Dew Point (F),Humidity (%),Wind,Wind Speed (mph),Wind Gust (mph),Pressure (in),Precipitation (in),Condition,Data Collection Source
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,12:53 AM,72 °F,66 °F,81 %,SSW,5 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,1:16 AM,72 °F,67 °F,84 %,NNE,9 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,1:53 AM,70 °F,65 °F,84 %,NW,5 mph,0 mph,29.32 in,0.1 in,Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,2:53 AM,70 °F,66 °F,87 %,CALM,0 mph,0 mph,29.29 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,3:53 AM,69 °F,65 °F,87 %,N,5 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,4:53 AM,68 °F,64 °F,87 %,N,15 mph,0 mph,29.30 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,5:53 AM,68 °F,63 °F,84 %,NNE,14 mph,23 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,6:53 AM,69 °F,63 °F,81 %,N,10 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,7:53 AM,71 °F,63 °F,75 %,NNE,9 mph,0 mph,29.34 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,8:53 AM,72 °F,60 °F,66 %,N,12 mph,0 mph,29.35 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,9:53 AM,74 °F,60 °F,62 %,NNE,13 mph,0 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,10:53 AM,75 °F,61 °F,62 %,N,16 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,11:53 AM,76 °F,56 °F,50 %,NNE,16 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,12:53 PM,77 °F,55 °F,46 %,NNE,18 mph,23 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,1:53 PM,77 °F,55 °F,46 %,NE,20 mph,25 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,2:53 PM,77 °F,55 °F,46 %,NE,20 mph,28 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,3:53 PM,76 °F,50 °F,40 %,NNE,20 mph,0 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,4:53 PM,74 °F,51 °F,45 %,NNE,17 mph,26 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,5:53 PM,72 °F,51 °F,48 %,NE,17 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,6:53 PM,69 °F,53 °F,57 %,NNE,18 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,7:53 PM,67 °F,52 °F,59 %,NNE,14 mph,24 mph,29.39 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,8:53 PM,65 °F,50 °F,58 %,NNE,14 mph,26 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,9:53 PM,64 °F,50 °F,60 %,N,10 mph,0 mph,29.39 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,10:53 PM,63 °F,51 °F,65 %,N,12 mph,0 mph,29.39 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/1/21,11:53 PM,63 °F,51 °F,65 %,N,12 mph,0 mph,29.39 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,12:53 AM,62 °F,52 °F,70 %,N,9 mph,0 mph,29.39 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,1:53 AM,62 °F,53 °F,72 %,NNE,10 mph,0 mph,29.39 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,2:53 AM,62 °F,54 °F,75 %,N,12 mph,0 mph,29.38 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,3:53 AM,62 °F,54 °F,75 %,N,8 mph,0 mph,29.39 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,4:53 AM,62 °F,54 °F,75 %,N,7 mph,0 mph,29.40 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,5:53 AM,62 °F,55 °F,78 %,N,7 mph,0 mph,29.41 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,6:53 AM,64 °F,55 °F,72 %,N,8 mph,0 mph,29.42 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,7:53 AM,67 °F,56 °F,68 %,NNE,8 mph,0 mph,29.44 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,8:53 AM,68 °F,56 °F,65 %,N,6 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,9:53 AM,68 °F,55 °F,63 %,NE,9 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,10:53 AM,70 °F,55 °F,59 %,NNE,9 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,11:53 AM,71 °F,53 °F,53 %,NW,6 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,12:53 PM,73 °F,51 °F,46 %,NE,9 mph,0 mph,29.44 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,1:53 PM,73 °F,51 °F,46 %,NE,6 mph,17 mph,29.42 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,2:53 PM,73 °F,48 °F,41 %,N,6 mph,0 mph,29.42 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,3:53 PM,72 °F,49 °F,44 %,ENE,8 mph,0 mph,29.42 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,4:53 PM,72 °F,48 °F,43 %,NNE,9 mph,20 mph,29.39 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,5:53 PM,72 °F,49 °F,44 %,ENE,10 mph,0 mph,29.39 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,6:53 PM,71 °F,46 °F,41 %,ENE,9 mph,0 mph,29.39 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,7:53 PM,69 °F,47 °F,45 %,N,8 mph,0 mph,29.39 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,8:53 PM,67 °F,46 °F,47 %,NE,8 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,9:53 PM,66 °F,48 °F,52 %,NE,6 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,10:53 PM,66 °F,51 °F,59 %,SE,3 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/2/21,11:53 PM,64 °F,52 °F,65 %,CALM,0 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,12:53 AM,61 °F,50 °F,67 %,WNW,3 mph,0 mph,29.39 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,1:53 AM,62 °F,51 °F,67 %,W,3 mph,0 mph,29.39 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,2:53 AM,59 °F,50 °F,72 %,W,5 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,3:53 AM,59 °F,50 °F,72 %,W,5 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,4:53 AM,60 °F,50 °F,69 %,W,3 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,5:53 AM,60 °F,49 °F,67 %,W,6 mph,0 mph,29.39 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,6:53 AM,64 °F,51 °F,63 %,W,5 mph,0 mph,29.40 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,7:53 AM,67 °F,51 °F,57 %,W,9 mph,0 mph,29.39 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,8:53 AM,72 °F,53 °F,51 %,W,9 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,9:53 AM,75 °F,54 °F,48 %,WNW,9 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,10:53 AM,78 °F,55 °F,45 %,NW,9 mph,0 mph,29.35 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,11:53 AM,81 °F,56 °F,42 %,NW,10 mph,20 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,12:53 PM,83 °F,58 °F,42 %,W,15 mph,21 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,1:53 PM,84 °F,59 °F,43 %,WNW,9 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,2:53 PM,85 °F,60 °F,43 %,W,12 mph,23 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,3:53 PM,86 °F,60 °F,41 %,WNW,10 mph,21 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,4:53 PM,86 °F,60 °F,41 %,WNW,7 mph,21 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,5:53 PM,86 °F,61 °F,43 %,WNW,15 mph,23 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,6:53 PM,84 °F,61 °F,46 %,W,14 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,7:53 PM,83 °F,61 °F,47 %,W,10 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,8:53 PM,81 °F,62 °F,52 %,W,8 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,9:53 PM,79 °F,62 °F,56 %,WNW,7 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,10:53 PM,78 °F,62 °F,58 %,W,8 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/3/21,11:53 PM,76 °F,62 °F,62 %,W,8 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,12:53 AM,76 °F,62 °F,62 %,WNW,8 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,1:53 AM,74 °F,62 °F,66 %,W,5 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,2:53 AM,73 °F,61 °F,66 %,WNW,6 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,3:53 AM,72 °F,61 °F,68 %,W,7 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,4:53 AM,70 °F,61 °F,73 %,W,5 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,5:53 AM,70 °F,61 °F,73 %,W,5 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,6:53 AM,71 °F,62 °F,73 %,WSW,5 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,7:53 AM,75 °F,62 °F,64 %,W,7 mph,0 mph,29.30 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,8:53 AM,78 °F,63 °F,60 %,NW,9 mph,0 mph,29.31 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,9:53 AM,82 °F,65 °F,56 %,WNW,9 mph,0 mph,29.30 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,10:53 AM,83 °F,63 °F,51 %,VAR,3 mph,0 mph,29.30 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,11:53 AM,87 °F,63 °F,44 %,WNW,8 mph,0 mph,29.29 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,12:53 PM,88 °F,62 °F,42 %,WNW,8 mph,0 mph,29.29 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,1:53 PM,89 °F,62 °F,40 %,NW,10 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,2:53 PM,89 °F,64 °F,43 %,WSW,10 mph,16 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,3:53 PM,89 °F,62 °F,40 %,WSW,12 mph,0 mph,29.27 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,4:53 PM,89 °F,65 °F,45 %,WSW,12 mph,18 mph,29.27 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,5:53 PM,88 °F,66 °F,48 %,WSW,13 mph,0 mph,29.27 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,6:53 PM,86 °F,64 °F,48 %,SW,15 mph,0 mph,29.27 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,7:53 PM,84 °F,66 °F,55 %,WSW,10 mph,0 mph,29.27 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,8:53 PM,82 °F,66 °F,58 %,SW,8 mph,0 mph,29.27 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,9:53 PM,81 °F,66 °F,60 %,WSW,8 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,10:53 PM,79 °F,66 °F,64 %,WSW,7 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/4/21,11:53 PM,78 °F,67 °F,68 %,WSW,9 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,12:53 AM,77 °F,66 °F,69 %,WSW,6 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,1:53 AM,77 °F,66 °F,69 %,WSW,9 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,2:53 AM,76 °F,65 °F,69 %,WSW,12 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,3:53 AM,75 °F,65 °F,71 %,WSW,9 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,4:53 AM,74 °F,65 °F,73 %,WSW,9 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,5:53 AM,74 °F,65 °F,73 %,SW,8 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,6:53 AM,75 °F,65 °F,71 %,WSW,10 mph,0 mph,29.31 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,7:53 AM,79 °F,65 °F,62 %,WSW,12 mph,0 mph,29.31 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,8:53 AM,81 °F,66 °F,60 %,W,9 mph,23 mph,29.31 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,9:53 AM,84 °F,66 °F,55 %,W,13 mph,0 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,10:53 AM,86 °F,66 °F,51 %,W,13 mph,0 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,11:53 AM,88 °F,66 °F,48 %,WSW,17 mph,23 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,12:53 PM,90 °F,66 °F,45 %,WSW,18 mph,25 mph,29.31 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,1:53 PM,90 °F,66 °F,45 %,WSW,18 mph,26 mph,29.31 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,2:53 PM,91 °F,66 °F,43 %,WSW,20 mph,30 mph,29.30 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,3:53 PM,90 °F,66 °F,45 %,W,20 mph,31 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,4:53 PM,90 °F,67 °F,46 %,WSW,18 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,5:53 PM,89 °F,67 °F,48 %,WSW,16 mph,24 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,6:53 PM,88 °F,68 °F,51 %,WSW,15 mph,24 mph,29.30 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,7:53 PM,86 °F,67 °F,53 %,WSW,14 mph,0 mph,29.30 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,8:53 PM,84 °F,67 °F,56 %,SW,8 mph,0 mph,29.31 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,9:53 PM,83 °F,67 °F,58 %,SW,9 mph,0 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,10:53 PM,81 °F,68 °F,65 %,SW,12 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/5/21,11:53 PM,80 °F,68 °F,67 %,SW,8 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,12:53 AM,79 °F,67 °F,66 %,SW,9 mph,0 mph,29.34 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,1:53 AM,79 °F,67 °F,66 %,WSW,8 mph,0 mph,29.34 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,2:53 AM,79 °F,66 °F,64 %,WSW,12 mph,0 mph,29.34 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,3:53 AM,78 °F,66 °F,66 %,WSW,9 mph,0 mph,29.35 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,4:53 AM,78 °F,66 °F,66 %,WSW,13 mph,0 mph,29.35 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,5:53 AM,77 °F,66 °F,69 %,WSW,9 mph,0 mph,29.37 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,6:53 AM,77 °F,67 °F,71 %,WSW,13 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,7:53 AM,79 °F,66 °F,64 %,WSW,9 mph,0 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,8:53 AM,82 °F,67 °F,60 %,WSW,12 mph,20 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,9:53 AM,84 °F,67 °F,56 %,WSW,14 mph,21 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,10:53 AM,87 °F,67 °F,51 %,W,12 mph,20 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,11:53 AM,89 °F,67 °F,48 %,SW,12 mph,20 mph,29.35 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,12:53 PM,90 °F,66 °F,45 %,SW,13 mph,18 mph,29.34 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,1:53 PM,90 °F,65 °F,43 %,WSW,13 mph,22 mph,29.34 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,2:53 PM,91 °F,64 °F,41 %,WSW,13 mph,22 mph,29.32 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,3:53 PM,91 °F,64 °F,41 %,SW,13 mph,21 mph,29.31 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,4:53 PM,90 °F,64 °F,42 %,WSW,17 mph,24 mph,29.29 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,5:53 PM,88 °F,65 °F,46 %,SSW,16 mph,24 mph,29.27 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,6:53 PM,87 °F,66 °F,49 %,WSW,14 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,7:53 PM,84 °F,66 °F,55 %,WSW,10 mph,0 mph,29.29 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,8:53 PM,83 °F,65 °F,54 %,SW,8 mph,0 mph,29.30 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,9:53 PM,82 °F,66 °F,58 %,SW,7 mph,0 mph,29.31 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,10:53 PM,81 °F,67 °F,62 %,SW,8 mph,0 mph,29.30 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/6/21,11:53 PM,79 °F,67 °F,66 %,SW,7 mph,0 mph,29.29 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,12:53 AM,78 °F,67 °F,68 %,SSW,9 mph,0 mph,29.29 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,1:53 AM,78 °F,67 °F,68 %,SW,8 mph,0 mph,29.29 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,2:53 AM,77 °F,67 °F,71 %,SSW,8 mph,0 mph,29.29 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,3:53 AM,75 °F,67 °F,76 %,SSW,5 mph,0 mph,29.28 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,4:53 AM,75 °F,66 °F,73 %,SSW,6 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,5:53 AM,75 °F,67 °F,76 %,SSW,7 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,6:53 AM,76 °F,67 °F,74 %,SSW,8 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,7:53 AM,79 °F,67 °F,66 %,SW,8 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,8:53 AM,81 °F,68 °F,65 %,SW,10 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,9:53 AM,85 °F,68 °F,57 %,SW,10 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,10:53 AM,87 °F,67 °F,51 %,SW,12 mph,20 mph,29.26 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,11:53 AM,87 °F,65 °F,48 %,W,13 mph,0 mph,29.24 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,12:53 PM,88 °F,63 °F,43 %,W,14 mph,21 mph,29.22 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,1:53 PM,90 °F,62 °F,39 %,SW,16 mph,24 mph,29.21 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,2:53 PM,88 °F,62 °F,42 %,W,14 mph,0 mph,29.20 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,3:53 PM,90 °F,60 °F,37 %,W,10 mph,20 mph,29.18 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,4:18 PM,90 °F,60 °F,37 %,W,14 mph,25 mph,29.18 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,4:53 PM,81 °F,64 °F,56 %,N,16 mph,29 mph,29.18 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,5:00 PM,82 °F,64 °F,54 %,N,15 mph,0 mph,29.19 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,5:53 PM,80 °F,64 °F,58 %,NE,9 mph,0 mph,29.18 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,6:53 PM,77 °F,63 °F,62 %,NE,10 mph,0 mph,29.20 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,7:43 PM,76 °F,64 °F,67 %,E,8 mph,0 mph,29.21 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,7:53 PM,76 °F,64 °F,67 %,ENE,9 mph,0 mph,29.21 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,8:53 PM,71 °F,63 °F,75 %,NE,9 mph,0 mph,29.22 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,9:10 PM,71 °F,64 °F,78 %,NE,8 mph,0 mph,29.22 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,9:53 PM,70 °F,63 °F,78 %,NE,7 mph,0 mph,29.22 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,10:50 PM,70 °F,63 °F,78 %,NE,7 mph,0 mph,29.22 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,10:53 PM,71 °F,63 °F,75 %,NNE,6 mph,0 mph,29.22 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,11:38 PM,70 °F,63 °F,78 %,N,8 mph,0 mph,29.21 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/7/21,11:53 PM,70 °F,63 °F,78 %,NE,6 mph,0 mph,29.21 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,12:44 AM,70 °F,63 °F,78 %,NE,9 mph,0 mph,29.19 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,12:53 AM,69 °F,63 °F,81 %,NE,9 mph,0 mph,29.19 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,1:53 AM,68 °F,62 °F,81 %,NE,8 mph,0 mph,29.19 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,2:53 AM,68 °F,61 °F,78 %,NNE,9 mph,0 mph,29.20 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,3:53 AM,67 °F,60 °F,79 %,NNE,9 mph,0 mph,29.21 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,4:53 AM,66 °F,59 °F,78 %,NNE,13 mph,0 mph,29.21 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,5:53 AM,66 °F,59 °F,78 %,NNE,7 mph,0 mph,29.21 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,6:53 AM,65 °F,58 °F,78 %,N,13 mph,0 mph,29.23 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,7:53 AM,65 °F,58 °F,78 %,NNE,9 mph,0 mph,29.24 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,8:53 AM,66 °F,58 °F,75 %,NNE,8 mph,0 mph,29.26 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,9:22 AM,66 °F,58 °F,75 %,NNE,3 mph,0 mph,29.26 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,9:53 AM,67 °F,58 °F,73 %,NNE,8 mph,0 mph,29.26 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,10:53 AM,67 °F,58 °F,73 %,N,9 mph,0 mph,29.26 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,11:15 AM,67 °F,57 °F,70 %,NE,8 mph,0 mph,29.26 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,11:53 AM,67 °F,57 °F,70 %,VAR,6 mph,0 mph,29.27 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,12:53 PM,69 °F,58 °F,68 %,NNE,3 mph,0 mph,29.27 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,1:53 PM,68 °F,57 °F,68 %,NNE,6 mph,0 mph,29.27 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,2:53 PM,67 °F,57 °F,70 %,NE,8 mph,0 mph,29.28 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,3:04 PM,66 °F,57 °F,73 %,NNE,8 mph,0 mph,29.28 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,3:53 PM,66 °F,58 °F,75 %,NNE,7 mph,0 mph,29.29 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,4:53 PM,67 °F,57 °F,70 %,NNE,8 mph,0 mph,29.28 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,5:53 PM,67 °F,56 °F,68 %,NE,8 mph,0 mph,29.28 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,6:53 PM,65 °F,55 °F,70 %,NE,10 mph,0 mph,29.29 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,7:53 PM,65 °F,56 °F,73 %,NNE,9 mph,0 mph,29.29 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,8:53 PM,65 °F,55 °F,70 %,NNE,10 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,9:53 PM,65 °F,55 °F,70 %,N,7 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,10:34 PM,65 °F,55 °F,70 %,N,10 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,10:53 PM,65 °F,55 °F,70 %,NNW,12 mph,0 mph,29.32 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/8/21,11:53 PM,63 °F,54 °F,72 %,NW,5 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,12:53 AM,62 °F,53 °F,72 %,WNW,5 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,1:53 AM,61 °F,53 °F,75 %,WNW,5 mph,0 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,2:53 AM,60 °F,53 °F,78 %,NW,6 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,3:53 AM,60 °F,53 °F,78 %,NW,5 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,4:53 AM,60 °F,53 °F,78 %,CALM,0 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,5:53 AM,60 °F,54 °F,80 %,NNW,3 mph,0 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,6:53 AM,62 °F,55 °F,78 %,NW,7 mph,0 mph,29.40 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,7:53 AM,66 °F,55 °F,68 %,N,8 mph,0 mph,29.40 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,8:53 AM,69 °F,53 °F,57 %,NNE,10 mph,0 mph,29.41 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,9:53 AM,71 °F,49 °F,45 %,N,8 mph,0 mph,29.40 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,10:53 AM,72 °F,51 °F,48 %,NNE,10 mph,0 mph,29.41 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,11:53 AM,74 °F,52 °F,46 %,NE,8 mph,17 mph,29.40 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,12:53 PM,73 °F,50 °F,44 %,NE,10 mph,0 mph,29.40 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,1:53 PM,75 °F,48 °F,38 %,NE,12 mph,23 mph,29.39 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,2:53 PM,75 °F,47 °F,37 %,N,8 mph,0 mph,29.39 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,3:53 PM,75 °F,45 °F,34 %,NNE,9 mph,0 mph,29.40 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,4:53 PM,76 °F,44 °F,32 %,NNE,8 mph,0 mph,29.39 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,5:53 PM,74 °F,44 °F,34 %,ENE,6 mph,0 mph,29.39 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,6:53 PM,73 °F,42 °F,33 %,ESE,8 mph,0 mph,29.40 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,7:53 PM,72 °F,45 °F,38 %,E,8 mph,0 mph,29.40 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,8:53 PM,71 °F,43 °F,36 %,E,8 mph,0 mph,29.39 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,9:53 PM,71 °F,43 °F,36 %,E,7 mph,0 mph,29.40 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,10:53 PM,68 °F,47 °F,47 %,E,6 mph,0 mph,29.39 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/9/21,11:53 PM,67 °F,52 °F,59 %,ESE,3 mph,0 mph,29.38 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,12:53 AM,67 °F,53 °F,61 %,E,8 mph,0 mph,29.35 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,1:53 AM,66 °F,55 °F,68 %,ESE,8 mph,0 mph,29.34 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,2:53 AM,65 °F,55 °F,70 %,NE,5 mph,0 mph,29.35 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,3:53 AM,66 °F,57 °F,73 %,E,8 mph,0 mph,29.34 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,4:53 AM,66 °F,59 °F,78 %,E,8 mph,0 mph,29.34 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,5:53 AM,66 °F,59 °F,78 %,SE,6 mph,0 mph,29.34 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,6:53 AM,68 °F,58 °F,70 %,ESE,6 mph,0 mph,29.34 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,7:53 AM,69 °F,58 °F,68 %,SE,8 mph,0 mph,29.34 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,8:53 AM,71 °F,58 °F,63 %,ESE,12 mph,0 mph,29.33 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,9:53 AM,72 °F,60 °F,66 %,ESE,7 mph,0 mph,29.33 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,10:44 AM,73 °F,59 °F,61 %,SE,12 mph,0 mph,29.32 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,10:53 AM,73 °F,60 °F,64 %,SE,7 mph,0 mph,29.32 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,11:42 AM,75 °F,60 °F,60 %,E,12 mph,0 mph,29.30 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,11:53 AM,75 °F,60 °F,60 %,E,12 mph,0 mph,29.30 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,12:53 PM,73 °F,60 °F,64 %,E,14 mph,0 mph,29.30 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,1:53 PM,73 °F,60 °F,64 %,E,13 mph,0 mph,29.28 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,2:53 PM,73 °F,60 °F,64 %,E,14 mph,24 mph,29.27 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,3:53 PM,72 °F,63 °F,73 %,E,12 mph,0 mph,29.27 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,4:53 PM,72 °F,64 °F,76 %,ENE,10 mph,0 mph,29.26 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,5:05 PM,72 °F,64 °F,76 %,E,9 mph,0 mph,29.26 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,5:53 PM,72 °F,64 °F,76 %,ENE,9 mph,0 mph,29.25 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,6:07 PM,71 °F,63 °F,75 %,ENE,9 mph,0 mph,29.24 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,6:53 PM,70 °F,64 °F,81 %,ENE,8 mph,0 mph,29.25 in,0.1 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,7:53 PM,70 °F,64 °F,81 %,ENE,9 mph,0 mph,29.25 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,8:53 PM,70 °F,64 °F,81 %,ENE,9 mph,0 mph,29.24 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,9:31 PM,70 °F,65 °F,84 %,E,10 mph,0 mph,29.24 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,9:53 PM,70 °F,65 °F,84 %,E,13 mph,0 mph,29.24 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,10:53 PM,70 °F,65 °F,84 %,ENE,10 mph,0 mph,29.24 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/10/21,11:53 PM,70 °F,64 °F,81 %,E,12 mph,0 mph,29.23 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,12:53 AM,70 °F,63 °F,78 %,ENE,15 mph,0 mph,29.23 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,1:53 AM,69 °F,63 °F,81 %,ENE,16 mph,0 mph,29.22 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,2:23 AM,68 °F,63 °F,84 %,ENE,14 mph,0 mph,29.22 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,2:53 AM,68 °F,63 °F,84 %,ENE,14 mph,21 mph,29.22 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,3:53 AM,68 °F,62 °F,81 %,ENE,21 mph,28 mph,29.21 in,0.0 in,Cloudy / Windy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,4:53 AM,68 °F,62 °F,81 %,ENE,14 mph,0 mph,29.21 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,5:53 AM,68 °F,60 °F,76 %,ENE,14 mph,0 mph,29.22 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,6:53 AM,69 °F,61 °F,75 %,E,13 mph,0 mph,29.23 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,7:53 AM,68 °F,60 °F,76 %,ENE,14 mph,0 mph,29.24 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,8:53 AM,68 °F,61 °F,78 %,E,12 mph,0 mph,29.25 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,9:20 AM,68 °F,62 °F,81 %,ENE,12 mph,0 mph,29.26 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,9:53 AM,68 °F,62 °F,81 %,ENE,12 mph,0 mph,29.26 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,10:53 AM,68 °F,62 °F,81 %,ENE,10 mph,0 mph,29.27 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,11:53 AM,68 °F,62 °F,81 %,NE,13 mph,0 mph,29.28 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,12:24 PM,67 °F,61 °F,81 %,NE,15 mph,22 mph,29.28 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,12:53 PM,68 °F,61 °F,78 %,ENE,17 mph,0 mph,29.28 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,1:53 PM,67 °F,61 °F,81 %,ENE,16 mph,0 mph,29.28 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,2:53 PM,68 °F,62 °F,81 %,NE,12 mph,0 mph,29.29 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,3:53 PM,68 °F,61 °F,78 %,NNE,13 mph,0 mph,29.29 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,4:53 PM,68 °F,61 °F,78 %,NE,12 mph,0 mph,29.29 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,5:53 PM,67 °F,61 °F,81 %,NE,9 mph,0 mph,29.29 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,6:53 PM,69 °F,61 °F,75 %,NE,13 mph,0 mph,29.29 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,7:53 PM,69 °F,61 °F,75 %,ENE,13 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,8:27 PM,69 °F,61 °F,75 %,NE,15 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,8:53 PM,68 °F,61 °F,78 %,ENE,13 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,9:53 PM,68 °F,62 °F,81 %,NE,12 mph,0 mph,29.33 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,10:15 PM,67 °F,62 °F,84 %,NE,10 mph,0 mph,29.34 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,10:53 PM,67 °F,62 °F,84 %,ENE,9 mph,0 mph,29.34 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/11/21,11:53 PM,68 °F,62 °F,81 %,ENE,7 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,12:53 AM,68 °F,62 °F,81 %,ENE,6 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,1:53 AM,68 °F,61 °F,78 %,NE,9 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,2:14 AM,69 °F,61 °F,75 %,ENE,10 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,2:40 AM,69 °F,61 °F,75 %,ENE,12 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,2:53 AM,68 °F,62 °F,81 %,E,12 mph,0 mph,29.33 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,3:36 AM,67 °F,63 °F,87 %,E,9 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,3:53 AM,67 °F,62 °F,84 %,E,9 mph,0 mph,29.33 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,4:53 AM,67 °F,62 °F,84 %,ENE,9 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,5:22 AM,67 °F,62 °F,84 %,ENE,9 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,5:53 AM,68 °F,62 °F,81 %,E,8 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,6:53 AM,68 °F,63 °F,84 %,ENE,8 mph,0 mph,29.34 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,7:28 AM,69 °F,62 °F,78 %,E,7 mph,0 mph,29.34 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,7:53 AM,69 °F,63 °F,81 %,E,8 mph,0 mph,29.35 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,8:53 AM,70 °F,62 °F,76 %,E,9 mph,0 mph,29.36 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,9:53 AM,71 °F,63 °F,75 %,ENE,7 mph,0 mph,29.35 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,10:53 AM,72 °F,63 °F,73 %,E,8 mph,0 mph,29.36 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,11:42 AM,71 °F,63 °F,75 %,ENE,9 mph,0 mph,29.37 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,11:53 AM,72 °F,63 °F,73 %,ENE,9 mph,0 mph,29.37 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,12:53 PM,73 °F,64 °F,73 %,NE,7 mph,0 mph,29.36 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,1:53 PM,74 °F,64 °F,71 %,E,9 mph,0 mph,29.35 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,2:53 PM,74 °F,65 °F,73 %,ENE,9 mph,0 mph,29.35 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,3:53 PM,73 °F,64 °F,73 %,ENE,9 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,4:29 PM,73 °F,65 °F,76 %,ENE,12 mph,0 mph,29.33 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,4:53 PM,73 °F,66 °F,79 %,ENE,10 mph,0 mph,29.33 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,5:53 PM,75 °F,66 °F,73 %,NNE,9 mph,0 mph,29.32 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,6:53 PM,73 °F,65 °F,76 %,N,10 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,7:53 PM,73 °F,65 °F,76 %,NE,9 mph,0 mph,29.33 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,8:53 PM,72 °F,65 °F,78 %,NNE,10 mph,0 mph,29.31 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,9:45 PM,71 °F,65 °F,81 %,ENE,5 mph,0 mph,29.33 in,0.2 in,Heavy Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,9:53 PM,70 °F,65 °F,84 %,N,8 mph,0 mph,29.33 in,0.4 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,10:36 PM,70 °F,66 °F,87 %,NE,6 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,10:53 PM,70 °F,66 °F,87 %,NE,6 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/12/21,11:53 PM,71 °F,66 °F,84 %,CALM,0 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,12:53 AM,71 °F,66 °F,84 %,CALM,0 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,1:53 AM,70 °F,66 °F,87 %,CALM,0 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,2:12 AM,70 °F,66 °F,87 %,CALM,0 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,2:53 AM,70 °F,66 °F,87 %,N,3 mph,0 mph,29.30 in,0.0 in,Fog,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,3:53 AM,70 °F,66 °F,87 %,E,3 mph,0 mph,29.29 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,4:17 AM,70 °F,67 °F,90 %,CALM,0 mph,0 mph,29.30 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,4:53 AM,70 °F,67 °F,90 %,CALM,0 mph,0 mph,29.30 in,0.0 in,Fog,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,5:29 AM,70 °F,66 °F,87 %,S,3 mph,0 mph,29.30 in,0.0 in,Fog,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,5:53 AM,70 °F,66 °F,87 %,S,5 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,6:53 AM,70 °F,67 °F,90 %,SSW,8 mph,0 mph,29.31 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,7:53 AM,70 °F,67 °F,90 %,SSW,6 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,8:36 AM,72 °F,68 °F,87 %,WSW,6 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,8:53 AM,72 °F,67 °F,84 %,WSW,6 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,9:53 AM,71 °F,66 °F,84 %,WNW,6 mph,0 mph,29.34 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,10:13 AM,74 °F,68 °F,82 %,NW,9 mph,0 mph,29.34 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,10:27 AM,72 °F,66 °F,81 %,NW,8 mph,0 mph,29.34 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,10:53 AM,72 °F,65 °F,78 %,NW,10 mph,0 mph,29.34 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,11:53 AM,73 °F,65 °F,76 %,W,8 mph,0 mph,29.35 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,12:53 PM,72 °F,65 °F,78 %,W,9 mph,0 mph,29.36 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,1:35 PM,75 °F,66 °F,73 %,W,8 mph,0 mph,29.36 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,1:53 PM,76 °F,65 °F,69 %,WNW,12 mph,0 mph,29.36 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,2:53 PM,78 °F,64 °F,62 %,W,5 mph,0 mph,29.35 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,3:44 PM,78 °F,64 °F,62 %,WNW,8 mph,0 mph,29.36 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,3:53 PM,79 °F,64 °F,60 %,W,10 mph,0 mph,29.36 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,4:53 PM,78 °F,63 °F,60 %,W,9 mph,0 mph,29.36 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,5:53 PM,81 °F,64 °F,56 %,W,10 mph,0 mph,29.35 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,6:53 PM,79 °F,63 °F,58 %,WSW,12 mph,0 mph,29.36 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,7:53 PM,78 °F,64 °F,62 %,SW,7 mph,0 mph,29.37 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,8:53 PM,76 °F,64 °F,67 %,SW,7 mph,0 mph,29.38 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,9:53 PM,75 °F,65 °F,71 %,SW,7 mph,0 mph,29.40 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,10:53 PM,74 °F,65 °F,73 %,SSW,7 mph,0 mph,29.40 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/13/21,11:53 PM,72 °F,65 °F,78 %,SW,6 mph,0 mph,29.42 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,12:53 AM,72 °F,65 °F,78 %,WSW,7 mph,0 mph,29.42 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,1:53 AM,72 °F,65 °F,78 %,SW,7 mph,0 mph,29.43 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,2:53 AM,71 °F,64 °F,78 %,WSW,7 mph,0 mph,29.43 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,3:53 AM,71 °F,64 °F,78 %,SW,7 mph,0 mph,29.44 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,4:53 AM,70 °F,64 °F,81 %,SW,6 mph,0 mph,29.44 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,5:53 AM,70 °F,64 °F,81 %,SSW,5 mph,0 mph,29.44 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,6:53 AM,71 °F,65 °F,81 %,SSW,6 mph,0 mph,29.44 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,7:53 AM,75 °F,66 °F,73 %,SW,8 mph,0 mph,29.46 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,8:53 AM,77 °F,66 °F,69 %,W,10 mph,0 mph,29.47 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,9:53 AM,79 °F,66 °F,64 %,SW,9 mph,0 mph,29.46 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,10:53 AM,82 °F,65 °F,56 %,SSW,10 mph,0 mph,29.45 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,11:53 AM,84 °F,64 °F,51 %,SSW,14 mph,0 mph,29.44 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,12:53 PM,84 °F,62 °F,47 %,SSW,15 mph,23 mph,29.44 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,1:53 PM,84 °F,64 °F,51 %,SSW,13 mph,24 mph,29.41 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,2:53 PM,84 °F,64 °F,51 %,SSW,13 mph,21 mph,29.42 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,3:53 PM,83 °F,65 °F,54 %,SSW,13 mph,26 mph,29.41 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,4:53 PM,82 °F,66 °F,58 %,SSW,12 mph,21 mph,29.40 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,5:53 PM,81 °F,67 °F,62 %,SSW,9 mph,0 mph,29.38 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,6:53 PM,82 °F,67 °F,60 %,S,15 mph,23 mph,29.33 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,7:53 PM,81 °F,67 °F,62 %,S,12 mph,0 mph,29.33 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,8:53 PM,80 °F,68 °F,67 %,S,12 mph,0 mph,29.32 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,9:53 PM,80 °F,68 °F,67 %,S,14 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,10:53 PM,79 °F,67 °F,66 %,SSW,15 mph,23 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/14/21,11:53 PM,78 °F,67 °F,68 %,SSW,13 mph,25 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,12:53 AM,78 °F,66 °F,66 %,SSW,15 mph,23 mph,29.29 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,1:53 AM,78 °F,66 °F,66 %,SSW,15 mph,26 mph,29.29 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,2:53 AM,78 °F,66 °F,66 %,SSW,14 mph,25 mph,29.27 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,3:37 AM,78 °F,67 °F,68 %,WSW,13 mph,24 mph,29.27 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,3:53 AM,77 °F,67 °F,71 %,WSW,18 mph,29 mph,29.27 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,4:53 AM,72 °F,65 °F,78 %,WSW,16 mph,28 mph,29.26 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,5:53 AM,71 °F,65 °F,81 %,WSW,18 mph,25 mph,29.27 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,6:53 AM,71 °F,65 °F,81 %,WSW,13 mph,0 mph,29.27 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,7:53 AM,71 °F,65 °F,81 %,W,9 mph,0 mph,29.28 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,8:53 AM,72 °F,66 °F,81 %,W,9 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,9:17 AM,72 °F,66 °F,81 %,W,7 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,9:35 AM,73 °F,66 °F,79 %,WSW,8 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,9:53 AM,74 °F,67 °F,79 %,WSW,10 mph,0 mph,29.30 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,10:39 AM,75 °F,66 °F,73 %,W,13 mph,23 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,10:53 AM,75 °F,66 °F,73 %,W,10 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,11:53 AM,75 °F,66 °F,73 %,WSW,12 mph,23 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,12:53 PM,76 °F,66 °F,71 %,WSW,15 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,1:53 PM,77 °F,67 °F,71 %,WSW,9 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,2:45 PM,79 °F,68 °F,69 %,W,10 mph,0 mph,29.29 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,2:53 PM,79 °F,68 °F,69 %,SW,12 mph,16 mph,29.29 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,3:53 PM,79 °F,67 °F,66 %,WSW,10 mph,18 mph,29.29 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,4:53 PM,79 °F,67 °F,66 %,SW,8 mph,0 mph,29.29 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,5:53 PM,79 °F,66 °F,64 %,W,7 mph,0 mph,29.28 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,6:53 PM,77 °F,66 °F,69 %,E,6 mph,0 mph,29.29 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,7:08 PM,76 °F,65 °F,69 %,E,9 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,7:53 PM,73 °F,65 °F,76 %,NE,9 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,8:53 PM,71 °F,65 °F,81 %,ENE,12 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,9:00 PM,71 °F,64 °F,78 %,E,13 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,9:53 PM,71 °F,64 °F,78 %,E,7 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,10:53 PM,71 °F,64 °F,78 %,E,8 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,11:24 PM,71 °F,64 °F,78 %,NE,8 mph,0 mph,29.32 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,11:39 PM,70 °F,64 °F,81 %,N,5 mph,0 mph,29.32 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/15/21,11:53 PM,70 °F,65 °F,84 %,N,10 mph,0 mph,29.32 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,12:28 AM,69 °F,65 °F,87 %,ENE,10 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,12:53 AM,68 °F,64 °F,87 %,ENE,10 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,1:53 AM,69 °F,64 °F,84 %,NNE,6 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,2:28 AM,68 °F,63 °F,84 %,NE,9 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,2:53 AM,68 °F,63 °F,84 %,ENE,8 mph,0 mph,29.31 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,3:53 AM,68 °F,63 °F,84 %,NE,6 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,4:53 AM,68 °F,63 °F,84 %,NNE,8 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,5:24 AM,68 °F,63 °F,84 %,NNE,7 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,5:53 AM,68 °F,63 °F,84 %,N,6 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,6:53 AM,68 °F,63 °F,84 %,NNE,6 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,7:49 AM,70 °F,64 °F,83 %,NE,6 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,7:53 AM,69 °F,64 °F,84 %,NE,8 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,8:53 AM,70 °F,64 °F,81 %,ENE,8 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,9:43 AM,70 °F,64 °F,81 %,ENE,9 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,9:53 AM,71 °F,65 °F,81 %,NNE,7 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,10:53 AM,72 °F,64 °F,76 %,NE,10 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,11:34 AM,73 °F,64 °F,73 %,NNE,10 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,11:53 AM,74 °F,64 °F,71 %,NNE,10 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,12:53 PM,74 °F,63 °F,68 %,NE,13 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,1:24 PM,74 °F,63 °F,68 %,N,13 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,1:41 PM,74 °F,63 °F,68 %,NNE,13 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,1:53 PM,74 °F,63 °F,68 %,N,13 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,2:53 PM,73 °F,63 °F,71 %,NNE,10 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,3:53 PM,73 °F,61 °F,66 %,N,12 mph,18 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,4:53 PM,73 °F,59 °F,61 %,NNE,15 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,5:53 PM,72 °F,58 °F,61 %,N,12 mph,21 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,6:53 PM,71 °F,58 °F,63 %,N,12 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,7:27 PM,71 °F,57 °F,61 %,N,14 mph,20 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,7:53 PM,69 °F,59 °F,70 %,N,13 mph,0 mph,29.31 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,8:09 PM,68 °F,61 °F,78 %,N,12 mph,0 mph,29.32 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,8:53 PM,68 °F,63 °F,84 %,N,8 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,9:53 PM,68 °F,63 °F,84 %,N,8 mph,0 mph,29.33 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,10:38 PM,68 °F,64 °F,87 %,N,10 mph,0 mph,29.33 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,10:53 PM,68 °F,64 °F,87 %,N,8 mph,0 mph,29.33 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,11:21 PM,68 °F,64 °F,87 %,N,7 mph,0 mph,29.33 in,0.0 in,Light Drizzle,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/16/21,11:53 PM,69 °F,64 °F,84 %,NNE,10 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,12:39 AM,69 °F,63 °F,81 %,NNE,12 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,12:53 AM,69 °F,63 °F,81 %,NNE,10 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,1:53 AM,70 °F,62 °F,76 %,NNE,10 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,2:53 AM,69 °F,63 °F,81 %,NNE,7 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,3:53 AM,69 °F,63 °F,81 %,NNE,12 mph,0 mph,29.34 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,4:53 AM,69 °F,63 °F,81 %,NNE,12 mph,0 mph,29.35 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,5:53 AM,69 °F,62 °F,78 %,NNE,8 mph,0 mph,29.37 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,6:53 AM,69 °F,62 °F,78 %,N,12 mph,0 mph,29.38 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,7:53 AM,70 °F,63 °F,78 %,N,12 mph,0 mph,29.41 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,8:50 AM,73 °F,63 °F,69 %,N,10 mph,0 mph,29.42 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,8:53 AM,73 °F,63 °F,71 %,N,10 mph,0 mph,29.42 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,9:53 AM,74 °F,62 °F,66 %,N,14 mph,0 mph,29.43 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,10:53 AM,75 °F,62 °F,64 %,NE,15 mph,0 mph,29.43 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,11:53 AM,75 °F,62 °F,64 %,N,14 mph,22 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,12:53 PM,77 °F,59 °F,54 %,NNE,15 mph,0 mph,29.44 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,1:53 PM,78 °F,61 °F,56 %,NNE,10 mph,20 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,2:53 PM,77 °F,63 °F,62 %,NE,13 mph,21 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,3:53 PM,76 °F,62 °F,62 %,NE,8 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,4:40 PM,76 °F,62 °F,62 %,NNE,9 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,4:53 PM,76 °F,62 °F,62 %,N,9 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,5:53 PM,75 °F,60 °F,60 %,NE,10 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,6:53 PM,74 °F,59 °F,59 %,NE,10 mph,0 mph,29.44 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,7:53 PM,72 °F,58 °F,61 %,NE,12 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,8:53 PM,72 °F,57 °F,59 %,NNE,14 mph,0 mph,29.47 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,9:53 PM,72 °F,57 °F,59 %,NNE,8 mph,0 mph,29.49 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,10:53 PM,72 °F,57 °F,59 %,NNE,13 mph,0 mph,29.50 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/17/21,11:53 PM,71 °F,58 °F,63 %,NNE,8 mph,0 mph,29.50 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,12:53 AM,70 °F,58 °F,65 %,NNE,6 mph,0 mph,29.50 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,1:53 AM,70 °F,58 °F,65 %,NNE,6 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,2:53 AM,69 °F,59 °F,70 %,N,5 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,3:53 AM,68 °F,60 °F,76 %,N,5 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,4:53 AM,68 °F,61 °F,78 %,N,3 mph,0 mph,29.51 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,5:53 AM,68 °F,61 °F,78 %,N,5 mph,0 mph,29.53 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,6:53 AM,71 °F,63 °F,75 %,N,7 mph,0 mph,29.53 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,7:53 AM,74 °F,63 °F,68 %,ENE,7 mph,0 mph,29.54 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,8:53 AM,76 °F,63 °F,64 %,E,8 mph,0 mph,29.54 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,9:53 AM,77 °F,63 °F,62 %,E,7 mph,0 mph,29.54 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,10:53 AM,80 °F,64 °F,58 %,E,7 mph,0 mph,29.54 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,11:53 AM,81 °F,62 °F,52 %,NE,9 mph,0 mph,29.54 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,12:53 PM,82 °F,64 °F,54 %,VAR,6 mph,0 mph,29.53 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,1:53 PM,82 °F,64 °F,54 %,E,12 mph,0 mph,29.51 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,2:53 PM,82 °F,63 °F,52 %,ENE,12 mph,0 mph,29.51 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,3:53 PM,82 °F,62 °F,51 %,E,10 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,4:53 PM,81 °F,59 °F,47 %,E,10 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,5:53 PM,79 °F,59 °F,50 %,NE,13 mph,0 mph,29.49 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,6:53 PM,78 °F,58 °F,50 %,NE,9 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,7:53 PM,76 °F,58 °F,54 %,NNE,9 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,8:53 PM,73 °F,58 °F,59 %,NE,9 mph,0 mph,29.51 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,9:53 PM,72 °F,59 °F,64 %,NNE,7 mph,0 mph,29.52 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,10:53 PM,72 °F,60 °F,66 %,CALM,0 mph,0 mph,29.53 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/18/21,11:53 PM,71 °F,58 °F,63 %,E,6 mph,0 mph,29.52 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,12:53 AM,72 °F,59 °F,64 %,ENE,6 mph,0 mph,29.51 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,1:53 AM,71 °F,59 °F,66 %,NE,7 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,2:53 AM,70 °F,60 °F,71 %,NNW,3 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,3:53 AM,70 °F,60 °F,71 %,N,5 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,4:53 AM,69 °F,60 °F,73 %,CALM,0 mph,0 mph,29.49 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,5:53 AM,67 °F,60 °F,79 %,CALM,0 mph,0 mph,29.51 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,6:53 AM,69 °F,62 °F,78 %,CALM,0 mph,0 mph,29.52 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,7:53 AM,73 °F,63 °F,71 %,NNE,3 mph,0 mph,29.52 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,8:53 AM,77 °F,64 °F,64 %,CALM,0 mph,0 mph,29.53 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,9:53 AM,79 °F,65 °F,62 %,CALM,0 mph,0 mph,29.52 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,10:53 AM,81 °F,64 °F,56 %,N,3 mph,0 mph,29.51 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,11:53 AM,81 °F,63 °F,54 %,ENE,6 mph,0 mph,29.51 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,12:53 PM,83 °F,63 °F,51 %,ENE,7 mph,0 mph,29.49 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,1:53 PM,83 °F,62 °F,49 %,ESE,9 mph,0 mph,29.49 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,2:53 PM,83 °F,61 °F,47 %,ENE,12 mph,0 mph,29.49 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,3:53 PM,82 °F,60 °F,47 %,E,12 mph,0 mph,29.48 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,4:53 PM,81 °F,60 °F,49 %,E,12 mph,20 mph,29.47 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,5:53 PM,80 °F,60 °F,50 %,E,9 mph,0 mph,29.45 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,6:53 PM,79 °F,59 °F,50 %,E,8 mph,0 mph,29.44 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,7:53 PM,77 °F,57 °F,50 %,ENE,5 mph,0 mph,29.44 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,8:53 PM,76 °F,56 °F,50 %,ESE,3 mph,0 mph,29.45 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,9:53 PM,76 °F,56 °F,50 %,E,3 mph,0 mph,29.46 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,10:53 PM,75 °F,56 °F,51 %,ESE,3 mph,0 mph,29.45 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/19/21,11:53 PM,73 °F,56 °F,55 %,CALM,0 mph,0 mph,29.44 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,12:53 AM,70 °F,57 °F,63 %,WSW,5 mph,0 mph,29.43 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,1:53 AM,71 °F,57 °F,61 %,CALM,0 mph,0 mph,29.43 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,2:53 AM,70 °F,58 °F,65 %,CALM,0 mph,0 mph,29.43 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,3:53 AM,67 °F,58 °F,73 %,W,5 mph,0 mph,29.42 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,4:53 AM,68 °F,58 °F,70 %,W,5 mph,0 mph,29.42 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,5:53 AM,68 °F,59 °F,73 %,WSW,3 mph,0 mph,29.43 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,6:53 AM,71 °F,61 °F,70 %,WNW,5 mph,0 mph,29.42 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,7:53 AM,75 °F,61 °F,62 %,NW,6 mph,0 mph,29.43 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,8:53 AM,78 °F,61 °F,56 %,WNW,6 mph,0 mph,29.42 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,9:53 AM,81 °F,61 °F,50 %,WNW,7 mph,0 mph,29.41 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,10:53 AM,83 °F,59 °F,44 %,WNW,8 mph,0 mph,29.41 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,11:53 AM,84 °F,61 °F,46 %,NW,10 mph,17 mph,29.40 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,12:53 PM,86 °F,62 °F,44 %,NNW,9 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,1:53 PM,86 °F,61 °F,43 %,W,12 mph,18 mph,29.37 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,2:53 PM,88 °F,63 °F,43 %,WNW,13 mph,17 mph,29.35 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,3:53 PM,88 °F,62 °F,42 %,NW,14 mph,20 mph,29.34 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,4:53 PM,86 °F,63 °F,46 %,NE,14 mph,0 mph,29.34 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,5:53 PM,81 °F,62 °F,52 %,ENE,15 mph,0 mph,29.36 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,6:53 PM,77 °F,64 °F,64 %,NNE,13 mph,0 mph,29.37 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,7:53 PM,75 °F,62 °F,64 %,NNE,13 mph,0 mph,29.38 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,8:53 PM,73 °F,62 °F,68 %,NNE,13 mph,0 mph,29.39 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,9:53 PM,72 °F,60 °F,66 %,NNE,9 mph,0 mph,29.40 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,10:53 PM,71 °F,60 °F,68 %,NE,10 mph,0 mph,29.41 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/20/21,11:53 PM,70 °F,59 °F,68 %,NNE,9 mph,0 mph,29.41 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,12:53 AM,69 °F,60 °F,73 %,NNE,9 mph,0 mph,29.40 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,1:53 AM,69 °F,58 °F,68 %,NNE,9 mph,0 mph,29.40 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,2:53 AM,68 °F,59 °F,73 %,N,9 mph,0 mph,29.40 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,3:53 AM,68 °F,59 °F,73 %,NNE,9 mph,0 mph,29.41 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,4:53 AM,67 °F,59 °F,76 %,NNE,10 mph,0 mph,29.42 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,5:53 AM,67 °F,59 °F,76 %,N,10 mph,0 mph,29.44 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,6:53 AM,68 °F,59 °F,73 %,NNE,10 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,7:11 AM,68 °F,59 °F,73 %,NE,12 mph,0 mph,29.46 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,7:53 AM,69 °F,59 °F,70 %,NE,13 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,8:53 AM,70 °F,59 °F,68 %,NE,12 mph,0 mph,29.48 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,9:53 AM,71 °F,59 °F,66 %,NE,8 mph,0 mph,29.48 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,10:53 AM,72 °F,59 °F,64 %,NNE,12 mph,0 mph,29.49 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,11:53 AM,73 °F,59 °F,61 %,ENE,10 mph,21 mph,29.48 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,12:53 PM,74 °F,60 °F,62 %,NNE,7 mph,0 mph,29.49 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,1:29 PM,75 °F,59 °F,57 %,NE,6 mph,0 mph,29.48 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,1:53 PM,74 °F,59 °F,59 %,NE,12 mph,0 mph,29.47 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,2:53 PM,74 °F,59 °F,59 %,NE,8 mph,0 mph,29.48 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,3:53 PM,76 °F,60 °F,58 %,N,9 mph,0 mph,29.47 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,4:53 PM,75 °F,59 °F,57 %,ENE,9 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,5:53 PM,72 °F,59 °F,64 %,NE,12 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,6:53 PM,72 °F,60 °F,66 %,NNE,7 mph,0 mph,29.47 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,7:53 PM,70 °F,59 °F,68 %,NNE,9 mph,0 mph,29.48 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,8:53 PM,68 °F,60 °F,76 %,NE,8 mph,0 mph,29.49 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,9:53 PM,69 °F,60 °F,73 %,E,7 mph,0 mph,29.49 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,10:53 PM,68 °F,60 °F,76 %,E,9 mph,0 mph,29.49 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/21/21,11:53 PM,68 °F,61 °F,78 %,ENE,7 mph,0 mph,29.49 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,12:53 AM,68 °F,61 °F,78 %,ENE,5 mph,0 mph,29.50 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,1:53 AM,67 °F,60 °F,79 %,NE,3 mph,0 mph,29.51 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,2:53 AM,67 °F,61 °F,81 %,CALM,0 mph,0 mph,29.50 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,3:53 AM,68 °F,61 °F,78 %,CALM,0 mph,0 mph,29.50 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,4:53 AM,66 °F,61 °F,84 %,CALM,0 mph,0 mph,29.50 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,5:53 AM,68 °F,61 °F,78 %,CALM,0 mph,0 mph,29.51 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,6:01 AM,67 °F,61 °F,81 %,CALM,0 mph,0 mph,29.51 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,6:53 AM,69 °F,63 °F,81 %,CALM,0 mph,0 mph,29.52 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,7:53 AM,72 °F,62 °F,71 %,SSW,6 mph,0 mph,29.52 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,8:53 AM,73 °F,62 °F,68 %,S,6 mph,0 mph,29.52 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,9:49 AM,75 °F,63 °F,65 %,WSW,6 mph,0 mph,29.52 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,9:53 AM,76 °F,62 °F,62 %,WSW,6 mph,0 mph,29.52 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,10:53 AM,77 °F,64 °F,64 %,WSW,6 mph,0 mph,29.52 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,11:53 AM,80 °F,65 °F,60 %,SSW,6 mph,0 mph,29.51 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,12:53 PM,82 °F,66 °F,58 %,SSW,6 mph,0 mph,29.49 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,1:53 PM,84 °F,67 °F,56 %,SSW,6 mph,0 mph,29.48 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,2:53 PM,84 °F,67 °F,56 %,SW,6 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,3:53 PM,85 °F,67 °F,55 %,W,6 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,4:53 PM,82 °F,67 °F,60 %,E,10 mph,20 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,5:53 PM,82 °F,67 °F,60 %,E,9 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,6:53 PM,82 °F,68 °F,62 %,ESE,10 mph,0 mph,29.44 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,7:53 PM,81 °F,68 °F,65 %,ESE,7 mph,0 mph,29.44 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,8:53 PM,82 °F,68 °F,62 %,S,7 mph,0 mph,29.44 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,9:53 PM,81 °F,69 °F,67 %,S,9 mph,0 mph,29.45 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,10:53 PM,80 °F,69 °F,69 %,S,8 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/22/21,11:53 PM,79 °F,69 °F,72 %,SSW,10 mph,0 mph,29.46 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,12:53 AM,78 °F,69 °F,74 %,SSW,9 mph,0 mph,29.45 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,1:53 AM,77 °F,69 °F,76 %,SSW,6 mph,0 mph,29.44 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,2:53 AM,77 °F,69 °F,76 %,SW,8 mph,0 mph,29.43 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,3:53 AM,76 °F,69 °F,79 %,SW,8 mph,0 mph,29.43 in,0.0 in,Haze,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,4:53 AM,75 °F,69 °F,82 %,WSW,7 mph,0 mph,29.43 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,5:53 AM,74 °F,69 °F,85 %,WSW,8 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,6:53 AM,75 °F,70 °F,84 %,WSW,7 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,7:53 AM,77 °F,70 °F,79 %,SW,8 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,8:53 AM,79 °F,70 °F,74 %,WSW,8 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,9:53 AM,83 °F,69 °F,63 %,W,10 mph,0 mph,29.45 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,10:53 AM,85 °F,67 °F,55 %,WNW,12 mph,0 mph,29.44 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,11:53 AM,86 °F,66 °F,51 %,WSW,8 mph,0 mph,29.42 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,12:53 PM,88 °F,64 °F,45 %,WSW,8 mph,0 mph,29.41 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,1:53 PM,90 °F,64 °F,42 %,SW,8 mph,0 mph,29.40 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,2:53 PM,90 °F,65 °F,43 %,SSW,14 mph,23 mph,29.38 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,3:53 PM,91 °F,66 °F,43 %,WSW,13 mph,23 mph,29.37 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,4:53 PM,89 °F,66 °F,46 %,WSW,13 mph,23 mph,29.36 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,5:53 PM,88 °F,66 °F,48 %,SW,10 mph,0 mph,29.35 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,6:53 PM,87 °F,66 °F,49 %,WSW,12 mph,0 mph,29.34 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,7:53 PM,85 °F,67 °F,55 %,SW,10 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,8:53 PM,84 °F,67 °F,56 %,SW,10 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,9:53 PM,82 °F,68 °F,62 %,SSW,8 mph,0 mph,29.34 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,10:53 PM,82 °F,68 °F,62 %,SW,9 mph,0 mph,29.34 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/23/21,11:53 PM,80 °F,68 °F,67 %,SW,9 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,12:53 AM,79 °F,68 °F,69 %,SSW,8 mph,0 mph,29.31 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,1:53 AM,78 °F,68 °F,71 %,SW,10 mph,0 mph,29.30 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,2:53 AM,78 °F,68 °F,71 %,SW,8 mph,0 mph,29.30 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,3:53 AM,77 °F,68 °F,74 %,SSW,8 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,4:53 AM,76 °F,68 °F,76 %,SSW,9 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,5:53 AM,75 °F,68 °F,79 %,SSW,9 mph,20 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,6:53 AM,76 °F,68 °F,76 %,SW,7 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,7:53 AM,78 °F,69 °F,74 %,SW,12 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,8:53 AM,81 °F,70 °F,69 %,WSW,13 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,9:53 AM,85 °F,69 °F,59 %,WSW,14 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,10:53 AM,87 °F,69 °F,55 %,SW,16 mph,0 mph,29.25 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,11:53 AM,90 °F,70 °F,52 %,SW,16 mph,26 mph,29.24 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,12:53 PM,91 °F,71 °F,52 %,SW,18 mph,28 mph,29.21 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,1:53 PM,92 °F,70 °F,48 %,SW,16 mph,25 mph,29.19 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,2:53 PM,93 °F,69 °F,45 %,W,18 mph,30 mph,29.18 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,3:53 PM,93 °F,71 °F,49 %,SW,17 mph,31 mph,29.16 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,4:41 PM,91 °F,70 °F,50 %,WSW,15 mph,26 mph,29.15 in,0.0 in,Thunder in the Vicinity,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,4:45 PM,90 °F,71 °F,54 %,WSW,16 mph,26 mph,29.15 in,0.0 in,Light Rain with Thunder,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,4:53 PM,89 °F,71 °F,55 %,WSW,14 mph,25 mph,29.15 in,0.0 in,Light Rain with Thunder,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,5:03 PM,81 °F,71 °F,72 %,NNW,31 mph,44 mph,29.20 in,0.2 in,Heavy T-Storm / Windy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,5:18 PM,75 °F,69 °F,82 %,VAR,3 mph,23 mph,29.17 in,0.8 in,Heavy T-Storm,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,5:25 PM,76 °F,69 °F,79 %,VAR,5 mph,0 mph,29.16 in,0.8 in,Light Rain with Thunder,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,5:41 PM,80 °F,73 °F,79 %,S,5 mph,0 mph,29.16 in,0.8 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,5:53 PM,80 °F,71 °F,74 %,SSE,3 mph,0 mph,29.16 in,0.8 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,6:53 PM,83 °F,74 °F,74 %,S,6 mph,0 mph,29.16 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,7:43 PM,80 °F,72 °F,76 %,NNW,20 mph,30 mph,29.16 in,0.2 in,Heavy Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,7:48 PM,82 °F,70 °F,66 %,W,7 mph,30 mph,29.15 in,0.3 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,7:53 PM,84 °F,70 °F,63 %,NW,8 mph,29 mph,29.14 in,0.3 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,8:53 PM,81 °F,74 °F,79 %,W,3 mph,0 mph,29.17 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,9:53 PM,81 °F,74 °F,79 %,WNW,6 mph,0 mph,29.19 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,10:53 PM,81 °F,70 °F,69 %,NNE,5 mph,0 mph,29.22 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/24/21,11:53 PM,80 °F,70 °F,71 %,NE,5 mph,0 mph,29.22 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,12:53 AM,77 °F,69 °F,76 %,CALM,0 mph,0 mph,29.23 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,1:53 AM,76 °F,69 °F,79 %,CALM,0 mph,0 mph,29.23 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,2:53 AM,75 °F,70 °F,84 %,CALM,0 mph,0 mph,29.24 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,3:53 AM,74 °F,69 °F,85 %,NW,5 mph,0 mph,29.25 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,4:53 AM,73 °F,69 °F,87 %,WNW,5 mph,0 mph,29.26 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,5:53 AM,73 °F,68 °F,84 %,W,5 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,6:53 AM,76 °F,69 °F,79 %,CALM,0 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,7:53 AM,78 °F,69 °F,74 %,NW,6 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,8:53 AM,81 °F,68 °F,65 %,CALM,0 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,9:53 AM,85 °F,66 °F,53 %,NW,5 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,10:53 AM,87 °F,58 °F,37 %,N,8 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,11:53 AM,88 °F,49 °F,26 %,N,3 mph,0 mph,29.29 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,12:53 PM,89 °F,50 °F,26 %,W,5 mph,0 mph,29.29 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,1:53 PM,90 °F,49 °F,24 %,VAR,7 mph,0 mph,29.28 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,2:53 PM,90 °F,49 °F,24 %,CALM,0 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,3:53 PM,91 °F,50 °F,24 %,NNW,10 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,4:53 PM,89 °F,52 °F,28 %,NW,10 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,5:53 PM,88 °F,54 °F,31 %,WNW,13 mph,20 mph,29.26 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,6:53 PM,86 °F,53 °F,32 %,WNW,14 mph,0 mph,29.25 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,7:53 PM,85 °F,55 °F,36 %,WNW,10 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,8:53 PM,83 °F,56 °F,39 %,WNW,8 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,9:53 PM,81 °F,58 °F,45 %,W,6 mph,0 mph,29.28 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,10:53 PM,79 °F,60 °F,52 %,W,3 mph,0 mph,29.29 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/25/21,11:53 PM,79 °F,61 °F,54 %,NW,5 mph,0 mph,29.30 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,12:53 AM,75 °F,61 °F,62 %,WNW,3 mph,0 mph,29.30 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,1:53 AM,74 °F,61 °F,64 %,NW,3 mph,0 mph,29.31 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,2:53 AM,74 °F,61 °F,64 %,CALM,0 mph,0 mph,29.30 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,3:53 AM,72 °F,60 °F,66 %,NW,3 mph,0 mph,29.31 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,4:53 AM,71 °F,59 °F,66 %,NW,3 mph,0 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,5:53 AM,70 °F,59 °F,68 %,CALM,0 mph,0 mph,29.34 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,6:53 AM,73 °F,60 °F,64 %,CALM,0 mph,0 mph,29.34 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,7:53 AM,77 °F,60 °F,56 %,NW,5 mph,0 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,8:53 AM,82 °F,58 °F,44 %,CALM,0 mph,0 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,9:53 AM,86 °F,55 °F,35 %,VAR,5 mph,0 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,10:53 AM,88 °F,53 °F,30 %,NE,5 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,11:53 AM,90 °F,52 °F,27 %,NE,6 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,12:53 PM,91 °F,51 °F,25 %,ENE,6 mph,0 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,1:53 PM,90 °F,49 °F,24 %,VAR,5 mph,0 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,2:53 PM,91 °F,48 °F,23 %,ESE,9 mph,0 mph,29.35 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,3:53 PM,93 °F,48 °F,21 %,NE,7 mph,0 mph,29.34 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,4:53 PM,91 °F,47 °F,22 %,ESE,6 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,5:53 PM,91 °F,46 °F,21 %,VAR,3 mph,0 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,6:53 PM,89 °F,57 °F,34 %,SSW,13 mph,0 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,7:53 PM,87 °F,60 °F,40 %,SSW,9 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,8:53 PM,85 °F,61 °F,44 %,SSW,8 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,9:53 PM,83 °F,60 °F,46 %,S,7 mph,0 mph,29.34 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,10:53 PM,81 °F,62 °F,52 %,SW,8 mph,0 mph,29.35 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/26/21,11:53 PM,79 °F,63 °F,58 %,SW,7 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,12:53 AM,77 °F,64 °F,64 %,WSW,5 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,1:53 AM,77 °F,64 °F,64 %,WSW,5 mph,0 mph,29.36 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,2:53 AM,75 °F,64 °F,69 %,SW,7 mph,0 mph,29.35 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,3:53 AM,74 °F,63 °F,68 %,CALM,0 mph,0 mph,29.35 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,4:53 AM,75 °F,64 °F,69 %,SSW,3 mph,0 mph,29.37 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,5:53 AM,74 °F,64 °F,71 %,SW,3 mph,0 mph,29.37 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,6:53 AM,74 °F,64 °F,71 %,W,3 mph,0 mph,29.38 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,7:53 AM,78 °F,64 °F,62 %,NNW,5 mph,0 mph,29.41 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,8:53 AM,81 °F,63 °F,54 %,W,5 mph,0 mph,29.40 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,9:53 AM,81 °F,64 °F,56 %,NE,12 mph,0 mph,29.41 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,10:53 AM,82 °F,63 °F,52 %,VAR,7 mph,0 mph,29.43 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,11:53 AM,84 °F,60 °F,44 %,N,8 mph,0 mph,29.43 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,12:53 PM,83 °F,60 °F,46 %,SSW,13 mph,0 mph,29.33 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,1:53 PM,85 °F,63 °F,48 %,SW,15 mph,0 mph,29.33 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,2:53 PM,87 °F,63 °F,44 %,SW,16 mph,23 mph,29.32 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,3:53 PM,88 °F,63 °F,43 %,SW,12 mph,21 mph,29.33 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,4:53 PM,87 °F,63 °F,44 %,WSW,14 mph,0 mph,29.34 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,5:53 PM,87 °F,62 °F,43 %,W,12 mph,0 mph,29.33 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,6:53 PM,85 °F,64 °F,49 %,WSW,9 mph,0 mph,29.32 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,7:53 PM,84 °F,65 °F,53 %,WSW,8 mph,0 mph,29.33 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,8:53 PM,82 °F,65 °F,56 %,W,6 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,9:53 PM,81 °F,65 °F,58 %,W,6 mph,0 mph,29.35 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,10:53 PM,80 °F,65 °F,60 %,W,5 mph,0 mph,29.35 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/27/21,11:53 PM,79 °F,66 °F,64 %,WSW,3 mph,0 mph,29.36 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,12:53 AM,79 °F,66 °F,64 %,SW,7 mph,0 mph,29.36 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,1:53 AM,77 °F,67 °F,71 %,SW,6 mph,0 mph,29.36 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,2:53 AM,77 °F,67 °F,71 %,SSW,6 mph,0 mph,29.35 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,3:53 AM,77 °F,67 °F,71 %,SW,5 mph,0 mph,29.36 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,4:47 AM,77 °F,68 °F,74 %,WNW,5 mph,0 mph,29.38 in,0.0 in,Light Rain with Thunder,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,4:53 AM,77 °F,68 °F,74 %,WNW,6 mph,0 mph,29.38 in,0.0 in,Light Rain with Thunder,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,5:53 AM,74 °F,69 °F,85 %,W,6 mph,0 mph,29.37 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,6:53 AM,75 °F,71 °F,87 %,S,7 mph,0 mph,29.36 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,7:53 AM,77 °F,70 °F,79 %,WSW,7 mph,0 mph,29.37 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,8:53 AM,80 °F,67 °F,64 %,W,8 mph,0 mph,29.38 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,9:53 AM,83 °F,69 °F,63 %,W,10 mph,0 mph,29.39 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,10:53 AM,86 °F,71 °F,61 %,W,10 mph,0 mph,29.38 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,11:53 AM,87 °F,69 °F,55 %,VAR,7 mph,0 mph,29.37 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,12:53 PM,87 °F,70 °F,57 %,SW,10 mph,0 mph,29.34 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,1:53 PM,88 °F,71 °F,57 %,VAR,7 mph,0 mph,29.33 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,2:53 PM,88 °F,72 °F,59 %,WSW,14 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,3:53 PM,89 °F,72 °F,57 %,WSW,10 mph,0 mph,29.31 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,4:53 PM,89 °F,72 °F,57 %,WSW,10 mph,0 mph,29.29 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,5:53 PM,88 °F,71 °F,57 %,SW,10 mph,0 mph,29.28 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,6:53 PM,87 °F,72 °F,61 %,SW,12 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,7:53 PM,84 °F,73 °F,69 %,WSW,9 mph,0 mph,29.28 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,8:53 PM,84 °F,73 °F,69 %,SW,7 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,9:53 PM,83 °F,74 °F,74 %,SW,7 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,10:36 PM,83 °F,73 °F,72 %,SSW,8 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,10:53 PM,82 °F,73 °F,74 %,SW,6 mph,0 mph,29.27 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/28/21,11:53 PM,81 °F,73 °F,77 %,SW,9 mph,0 mph,29.25 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,12:53 AM,81 °F,74 °F,79 %,SW,7 mph,0 mph,29.27 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,1:53 AM,81 °F,74 °F,79 %,SW,8 mph,0 mph,29.27 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,2:53 AM,82 °F,75 °F,79 %,W,10 mph,0 mph,29.30 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,3:09 AM,81 °F,75 °F,82 %,W,8 mph,0 mph,29.29 in,0.0 in,Light Rain with Thunder,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,3:19 AM,78 °F,70 °F,76 %,NNW,33 mph,54 mph,29.33 in,0.0 in,Heavy T-Storm / Windy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,3:34 AM,72 °F,64 °F,76 %,WNW,12 mph,25 mph,29.34 in,0.1 in,Light Rain with Thunder,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,3:53 AM,73 °F,64 °F,73 %,WSW,15 mph,0 mph,29.29 in,0.1 in,Light Rain with Thunder,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,4:40 AM,76 °F,62 °F,62 %,SW,15 mph,26 mph,29.20 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,4:53 AM,76 °F,62 °F,62 %,SW,15 mph,0 mph,29.20 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,5:53 AM,75 °F,62 °F,64 %,WSW,15 mph,0 mph,29.19 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,6:53 AM,75 °F,64 °F,69 %,WSW,12 mph,0 mph,29.17 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,7:53 AM,78 °F,65 °F,64 %,NW,6 mph,0 mph,29.19 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,8:53 AM,81 °F,68 °F,65 %,WNW,8 mph,0 mph,29.22 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,9:53 AM,85 °F,67 °F,55 %,W,15 mph,29 mph,29.23 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,10:53 AM,87 °F,69 °F,55 %,WNW,20 mph,32 mph,29.24 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,11:53 AM,87 °F,71 °F,59 %,WNW,17 mph,28 mph,29.24 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,12:53 PM,81 °F,68 °F,65 %,E,13 mph,0 mph,29.25 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,1:53 PM,83 °F,68 °F,60 %,ENE,10 mph,0 mph,29.25 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,2:53 PM,84 °F,69 °F,61 %,E,9 mph,0 mph,29.25 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,3:53 PM,82 °F,68 °F,62 %,ENE,12 mph,0 mph,29.27 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,4:53 PM,83 °F,67 °F,58 %,NNE,14 mph,22 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,5:53 PM,80 °F,66 °F,62 %,NE,15 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,6:53 PM,78 °F,64 °F,62 %,NNE,17 mph,25 mph,29.30 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,7:53 PM,75 °F,63 °F,66 %,NE,17 mph,26 mph,29.31 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,8:53 PM,74 °F,62 °F,66 %,NNE,13 mph,22 mph,29.32 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,9:53 PM,73 °F,60 °F,64 %,NNE,12 mph,0 mph,29.33 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,10:53 PM,73 °F,58 °F,59 %,NNE,12 mph,0 mph,29.35 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/29/21,11:53 PM,73 °F,56 °F,55 %,NNE,13 mph,0 mph,29.37 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,12:53 AM,72 °F,59 °F,64 %,NNE,14 mph,0 mph,29.39 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,1:53 AM,71 °F,61 °F,70 %,NE,13 mph,0 mph,29.40 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,2:53 AM,70 °F,60 °F,71 %,NNE,15 mph,0 mph,29.41 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,3:53 AM,70 °F,53 °F,55 %,NNE,18 mph,0 mph,29.41 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,4:53 AM,69 °F,54 °F,58 %,NNE,17 mph,0 mph,29.43 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,5:53 AM,68 °F,53 °F,59 %,NNE,12 mph,0 mph,29.44 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,6:53 AM,68 °F,55 °F,63 %,NNE,16 mph,0 mph,29.44 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,7:53 AM,69 °F,54 °F,58 %,NE,18 mph,24 mph,29.45 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,8:53 AM,70 °F,54 °F,57 %,NE,17 mph,0 mph,29.48 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,9:53 AM,71 °F,54 °F,55 %,NE,15 mph,21 mph,29.50 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,10:53 AM,72 °F,54 °F,53 %,NE,12 mph,0 mph,29.51 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,11:53 AM,74 °F,54 °F,50 %,NNE,10 mph,21 mph,29.51 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,12:53 PM,75 °F,53 °F,46 %,NNE,14 mph,22 mph,29.49 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,1:53 PM,73 °F,53 °F,49 %,NE,14 mph,20 mph,29.48 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,2:53 PM,72 °F,52 °F,49 %,NNE,10 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,3:53 PM,71 °F,54 °F,55 %,NE,10 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,4:53 PM,71 °F,53 °F,53 %,NE,8 mph,0 mph,29.46 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,5:53 PM,70 °F,52 °F,53 %,NE,9 mph,0 mph,29.47 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,6:53 PM,69 °F,53 °F,57 %,N,8 mph,0 mph,29.46 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,7:53 PM,68 °F,54 °F,61 %,NNE,8 mph,0 mph,29.45 in,0.0 in,Light Rain,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,8:53 PM,68 °F,54 °F,61 %,NNE,8 mph,0 mph,29.44 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,9:53 PM,68 °F,54 °F,61 %,NE,7 mph,0 mph,29.46 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,10:53 PM,68 °F,54 °F,61 %,N,7 mph,0 mph,29.45 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/30/21,11:53 PM,67 °F,54 °F,63 %,NNE,6 mph,0 mph,29.44 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,12:53 AM,68 °F,54 °F,61 %,CALM,0 mph,0 mph,29.44 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,1:53 AM,68 °F,55 °F,63 %,NNW,3 mph,0 mph,29.42 in,0.0 in,Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,2:53 AM,67 °F,55 °F,66 %,NNE,3 mph,0 mph,29.41 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,3:53 AM,65 °F,55 °F,70 %,CALM,0 mph,0 mph,29.39 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,4:53 AM,65 °F,55 °F,70 %,N,3 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,5:53 AM,65 °F,55 °F,70 %,NNE,3 mph,0 mph,29.38 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,6:53 AM,65 °F,56 °F,73 %,WNW,3 mph,0 mph,29.39 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,7:53 AM,69 °F,55 °F,61 %,CALM,0 mph,0 mph,29.38 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,8:53 AM,71 °F,55 °F,57 %,VAR,3 mph,0 mph,29.38 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,9:53 AM,72 °F,55 °F,55 %,WNW,5 mph,0 mph,29.38 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,10:53 AM,74 °F,54 °F,50 %,NW,7 mph,0 mph,29.38 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,11:53 AM,76 °F,54 °F,46 %,VAR,3 mph,0 mph,29.37 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,12:53 PM,77 °F,56 °F,48 %,NW,7 mph,16 mph,29.35 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,1:53 PM,78 °F,56 °F,46 %,W,7 mph,16 mph,29.32 in,0.0 in,Mostly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,2:53 PM,79 °F,54 °F,42 %,SSW,6 mph,16 mph,29.31 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,3:53 PM,81 °F,55 °F,41 %,WNW,9 mph,0 mph,29.29 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,4:53 PM,79 °F,55 °F,44 %,WSW,9 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,5:53 PM,79 °F,57 °F,47 %,W,12 mph,18 mph,29.27 in,0.0 in,Partly Cloudy,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,6:53 PM,78 °F,57 °F,48 %,W,8 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,7:53 PM,77 °F,58 °F,52 %,W,10 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,8:53 PM,76 °F,59 °F,56 %,W,9 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,9:53 PM,74 °F,60 °F,62 %,W,12 mph,0 mph,29.28 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,10:53 PM,73 °F,60 °F,64 %,W,9 mph,0 mph,29.27 in,0.0 in,Fair,Weather Underground
+"Chicago, IL",Chicago Midway International Airport Station,7/31/21,11:53 PM,72 °F,61 °F,68 %,W,8 mph,0 mph,29.26 in,0.0 in,Fair,Weather Underground
