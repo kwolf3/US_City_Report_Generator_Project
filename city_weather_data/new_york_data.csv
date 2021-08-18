@@ -1,4 +1,4 @@
-﻿Location,Station,Date,Time,Temperature (F),Dew Point (F),Humidity (%),Wind,Wind Speed (mph),Wind Gust (mph),Pressure (in),Precipitation (in),Condition,Data Collection Source
+﻿Location,Station,Date,Time,Temperature_F,DewPoint_F,Humidity_Percentage,Wind,WindSpeed_mph,WindGust_mph,Pressure_in,Precipitation_in,Condition,Data Collection Source
 "New York City, NY",Laguardia Airport Station,7/1/21,12:51 AM,78 °F,69 °F,74 %,SSW,7 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy,Weather Underground
 "New York City, NY",Laguardia Airport Station,7/1/21,1:51 AM,79 °F,69 °F,72 %,CALM,0 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy,Weather Underground
 "New York City, NY",Laguardia Airport Station,7/1/21,2:51 AM,79 °F,69 °F,72 %,CALM,0 mph,0 mph,29.86 in,0.0 in,Mostly Cloudy,Weather Underground

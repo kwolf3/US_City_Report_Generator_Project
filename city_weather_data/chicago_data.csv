@@ -1,4 +1,4 @@
-﻿Location,Station,Date,Time,Temperature (F),Dew Point (F),Humidity (%),Wind,Wind Speed (mph),Wind Gust (mph),Pressure (in),Precipitation (in),Condition,Data Collection Source
+﻿Location,Station,Date,Time,Temperature_F,DewPoint_F,Humidity_Percentage,Wind,WindSpeed_mph,WindGust_mph,Pressure_in,Precipitation_in,Condition,Data Collection Source
 "Chicago, IL",Chicago Midway International Airport Station,7/1/21,12:53 AM,72 °F,66 °F,81 %,SSW,5 mph,0 mph,29.31 in,0.0 in,Cloudy,Weather Underground
 "Chicago, IL",Chicago Midway International Airport Station,7/1/21,1:16 AM,72 °F,67 °F,84 %,NNE,9 mph,0 mph,29.32 in,0.0 in,Cloudy,Weather Underground
 "Chicago, IL",Chicago Midway International Airport Station,7/1/21,1:53 AM,70 °F,65 °F,84 %,NW,5 mph,0 mph,29.32 in,0.1 in,Rain,Weather Underground
