@@ -16,4 +16,4 @@ df_clean <- chicago_df %>%
   dplyr::mutate(Precipitation_in = gsub('in', '', Precipitation_in))
 
 df <- df_clean %>%
-  dplyr::select(datetime, Temperature_F, DewPoint_F, Humidity_Percentage, Wind, WindSpeed_mph, WindGust_mph, Pressure_in, Precipitation_in, Condition, Location, Station)
+  dplyr::select(datetime, temp = Temperature_F, dewpoint = DewPoint_F, humidity = Humidity_Percentage, wind = Wind, windspeed = WindSpeed_mph, windgust = WindGust_mph, pressure = Pressure_in, precip = Precipitation_in, condition = Condition, loc = Location, Station)
