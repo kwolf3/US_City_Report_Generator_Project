@@ -2,9 +2,9 @@ rm(list = ls())
 library(magrittr)
 search()
 
-# All data framces 
+# All data frames 
 
-# original Chicago dataa
+# original Chicago data
 chicago_df <- read.csv('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/data/city_weather_data/chicago_data.csv', header = TRUE)
 
 # clean up the data
