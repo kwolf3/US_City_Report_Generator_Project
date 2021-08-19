@@ -1,7 +1,12 @@
 ---
-title: "US_City_Report_Template"
+params:
+  file_path:
+    value: x
+  title:
+    value: x
+title: "'r params$title"
 author: "Kerstin Wolf"
-date: "8/18/2021"
+date: "July 2021"
 output: pdf_document
 ---
 
