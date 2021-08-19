@@ -2,6 +2,8 @@ rm(list = ls())
 library(magrittr)
 search()
 
+# All data framces 
+
 # original Chicago dataa
 chicago_df <- read.csv('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/data/city_weather_data/chicago_data.csv', header = TRUE)
 
@@ -21,9 +23,17 @@ df_clean <- chicago_df %>%
 df <- df_clean %>%
   dplyr::select(datetime, temp = Temperature_F, dewpoint = DewPoint_F, humidity = Humidity_Percentage, wind = Wind, windspeed = WindSpeed_mph, windgust = WindGust_mph, pressure = Pressure_in, precip = Precipitation_in, condition = Condition, loc = Location, Station)
 
+#####################
+
+# All tables
 
 
 
+
+
+####################
+
+# everything graphs
 
 
 
