@@ -46,6 +46,16 @@ df_loc <- read.csv('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generat
   dplyr::select(station = Station, lat = Lat, long = Long)
 ```
 
+
+```{r include = FALSE}
+# dataframe for temp graph
+df_temp <- df %>%
+  dplyr::select(datetime, temp) %>%
+  dplyr::group_by(as.Date(datetime)) %>%
+  dplyr::summarize(min_temp = min(temp),
+                   max_temp = max(temp))
+```
+
 ```{r echo = FALSE}
 map <- keafket::leaflet() %>%
   leaflet::addTiles(group = 'OSM') %>%
