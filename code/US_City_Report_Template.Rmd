@@ -35,8 +35,9 @@ df_clean <- read.csv('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Gener
 ```{r include = FALSE}
 # the clean data reorganized in a way so that I can easily work with it
 df <- df_clean %>%
-  dplyr::select(datetime, temp = Temperature_F, dewpoint = DewPoint_F, humidity = Humidity_Percentage, wind = Wind, windspeed = WindSpeed_mph, 
-                windgust = WindGust_mph, pressure = Pressure_in, precip = Precipitation_in, condition = Condition, loc = Location, Station)
+  dplyr::select(datetime, temp = Temperature_F, dewpoint = DewPoint_F, humidity = Humidity_Percentage, wind = Wind, 
+                windspeed = WindSpeed_mph, windgust = WindGust_mph, pressure = Pressure_in, precip = Precipitation_in, 
+                condition = Condition, loc = Location, station = Station)
 ```
 
 ```{r include = FALSE}
