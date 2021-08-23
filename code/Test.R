@@ -23,6 +23,14 @@ df_clean <- chicago_df %>%
 df <- df_clean %>%
   dplyr::select(datetime, temp = Temperature_F, dewpoint = DewPoint_F, humidity = Humidity_Percentage, wind = Wind, windspeed = WindSpeed_mph, windgust = WindGust_mph, pressure = Pressure_in, precip = Precipitation_in, condition = Condition, loc = Location, Station)
 
+
+# dataframe max and min temp of each day
+df_temp <- df %>%
+  dplyr::select(datetime, temp) %>%
+  dplyr::group_by(as.Date(datetime)) %>%
+  dplyr::summarize(min_temp = min(temp),
+                   max_temp = max(temp))
+  
 #####################
 
 # All tables
