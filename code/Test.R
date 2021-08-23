@@ -1,5 +1,6 @@
 rm(list = ls())
 library(magrittr)
+library(ggplot2)
 search()
 
 # All data frames 
@@ -27,7 +28,7 @@ df <- df_clean %>%
 # dataframe max and min temp of each day
 df_temp <- df %>%
   dplyr::select(datetime, temp) %>%
-  dplyr::group_by(as.Date(datetime)) %>%
+  dplyr::group_by(date = as.Date(datetime)) %>%
   dplyr::summarize(min_temp = min(temp),
                    max_temp = max(temp))
   
@@ -43,6 +44,12 @@ df_temp <- df %>%
 
 # everything graphs
 
+# temp graph
+df_temp %>%
+  ggplot() +
+  #geom_line(aes(x = date, y = min_temp, color = 'blue')) +
+  geom_point(aes(x = date, y = min_temp, color = 'blue'))
+  #geom_line(aes(x = date, y = max_temp, color = 'red'))
 
 
 
