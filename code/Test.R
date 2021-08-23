@@ -22,7 +22,7 @@ df_clean <- chicago_df %>%
 
 # the clean data reorganized in a way so that I can easily work with it
 df <- df_clean %>%
-  dplyr::select(datetime, temp = Temperature_F, dewpoint = DewPoint_F, humidity = Humidity_Percentage, wind = Wind, windspeed = WindSpeed_mph, windgust = WindGust_mph, pressure = Pressure_in, precip = Precipitation_in, condition = Condition, loc = Location, Station)
+  dplyr::select(datetime, temp = Temperature_F, dewpoint = DewPoint_F, humidity = Humidity_Percentage, wind = Wind, windspeed = WindSpeed_mph, windgust = WindGust_mph, pressure = Pressure_in, precip = Precipitation_in, condition = Condition, loc = Location, station = Station)
 
 
 # dataframe max and min temp of each day
@@ -47,10 +47,13 @@ df_temp <- df %>%
 # temp graph
 df_temp %>%
   ggplot() +
-  #geom_line(aes(x = date, y = min_temp, color = 'blue')) +
-  geom_point(aes(x = date, y = min_temp, color = 'blue'))
-  #geom_line(aes(x = date, y = max_temp, color = 'red'))
-
+  geom_line(aes(x = date, y = min_temp, color = 'blue', group = 1)) +
+  geom_line(aes(x = date, y = max_temp, color = 'red', group = 2)) +
+  labs(x = 'Date', y = 'Temperature (F)', color = '') +
+  theme_bw() +
+  theme(legend.margin = margin(0, 0, 0, 0),
+        legend.key.size = unit(0.5, 'cm')) +
+  scale_color_manual(values = c('blue' = 'blue', 'red' = 'red'), labels = c('Minimum Temperature', 'Maximum Temperature'))
 
 
 
