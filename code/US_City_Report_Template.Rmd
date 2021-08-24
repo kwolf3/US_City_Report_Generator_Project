@@ -66,11 +66,11 @@ map <- leaflet::leaflet() %>%
   leaflet::addMarkers(df_loc, lng = df_loc$long, lat = df_loc$lat) %>%
   leaflet::setView(lng = df_loc$long, lat = df_loc$lat, zoom = 15)
 
-mapview::mapshot(map, file = (paste0('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/map images/', df_loc$station, '_map.png'))) 
+mapview::mapshot(map, file = paste0('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/map images/', df_loc$station, '_map.png')) 
 ```
 
 ```{r echo = FALSE, out.width = '100%'}
-#knitr::include_graphics(paste0('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/map images/', df_loc$station, '_map.png'))
+knitr::include_graphics(paste0('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/map images/', df_loc$station, '_map.png'))
 ```
 
 ```{r echo = FALSE}
