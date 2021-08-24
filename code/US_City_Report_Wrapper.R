@@ -29,6 +29,11 @@ report_return <- lapply(seq_along(files), function(x){
                   report_title = a_title)
 })
 
+# add cover page
+# add image to cover page
+# add headers and footers
+# possibly adjust page number
+# add more content
 # add station param and put it where my name currently is
 # maybe still credit myself somewhere - maybe the header or footer?
 # figure out what new fancyhdr and titling packages are
@@ -36,4 +41,3 @@ report_return <- lapply(seq_along(files), function(x){
 # double check coords are correct
 
 
-#a_df <- read.csv('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/data/city_weather_data/chicago_data.csv')
