@@ -47,13 +47,14 @@ df_temp <- df %>%
 # temp graph
 df_temp %>%
   ggplot() +
-  geom_line(aes(x = date, y = min_temp, color = 'blue', group = 1)) +
   geom_line(aes(x = date, y = max_temp, color = 'red', group = 2)) +
+  geom_line(aes(x = date, y = min_temp, color = 'blue', group = 1)) +
   labs(x = 'Date', y = 'Temperature (F)', color = '') +
+  ggtitle('Minimum and Maximum Temperatures in July 2021') +
   theme_bw() +
   theme(legend.margin = margin(0, 0, 0, 0),
         legend.key.size = unit(0.5, 'cm')) +
-  scale_color_manual(values = c('blue' = 'blue', 'red' = 'red'), labels = c('Minimum Temperature', 'Maximum Temperature'))
+  scale_color_manual(values = c('red' = 'red', 'blue' = 'blue'), labels = c('Maximum Temperature', 'Minimum Temperature'))
 
 
 
