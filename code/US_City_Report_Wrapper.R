@@ -34,6 +34,7 @@ report_return <- lapply(seq_along(files), function(x){
 # add headers and footers
 # possibly adjust page number
 # add more content
+# add titles and things to identify sections
 # add station param and put it where my name currently is
 # maybe still credit myself somewhere - maybe the header or footer?
 # figure out what new fancyhdr and titling packages are
