@@ -8,6 +8,8 @@ search()
 # original Chicago data
 chicago_df <- read.csv('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/data/city_weather_data/chicago_data.csv', header = TRUE)
 
+a_df2 <- read.csv('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/data/weather_station_location.csv', header = TRUE)
+
 # clean up the data
 df_clean <- chicago_df %>%
   dplyr::mutate(datetime = paste(Date, Time)) %>%
@@ -24,6 +26,11 @@ df_clean <- chicago_df %>%
 df <- df_clean %>%
   dplyr::select(datetime, temp = Temperature_F, dewpoint = DewPoint_F, humidity = Humidity_Percentage, wind = Wind, windspeed = WindSpeed_mph, windgust = WindGust_mph, pressure = Pressure_in, precip = Precipitation_in, condition = Condition, loc = Location, station = Station)
 
+df_loc <- a_df2 %>%
+  dplyr::select(station = Station, lat = Lat, long = Long) %>%
+  dplyr::slice(grep(as.character(df$station[1]), station))
+
+grep(df$station[1], df_loc$station)
 
 # dataframe max and min temp of each day
 df_temp <- df %>%
