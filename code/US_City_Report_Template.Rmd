@@ -2,9 +2,11 @@
 params:
   file_path:
     value: x
-  title:
+  file_path2:
     value: x
-title: "'r params$title"
+  report_title:
+    value: x
+title: "`r params$report_title`"
 author: "Kerstin Wolf"
 date: "July 2021"
 output: pdf_document
@@ -20,7 +22,7 @@ library(mapview)
 
 ```{r include = FALSE}
 # clean the data
-df_clean <- read.csv('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/data/city_weather_data/chicago_data.csv', header = TRUE) %>%
+df_clean <- read.csv(params$file_path) %>%
   dplyr::mutate(datetime = paste(Date, Time)) %>%
   dplyr::mutate(datetime = strptime(datetime, format = '%m/%d/%y %I:%M %p')) %>%
   dplyr::mutate(Temperature_F = gsub('°F', '', Temperature_F)) %>%
@@ -42,9 +44,9 @@ df <- df_clean %>%
 
 ```{r include = FALSE}
 # latitude and longitude data
-df_loc <- read.csv('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/data/weather_station_location.csv', 
-                   header = TRUE) %>%
-  dplyr::select(station = Station, lat = Lat, long = Long)
+df_loc <- read.csv(params$file_path2) %>%
+  dplyr::select(station = Station, lat = Lat, long = Long) %>%
+  dplyr::slice(grep(as.character(df$station[1]), station))
 ```
 
 
@@ -58,16 +60,17 @@ df_temp <- df %>%
 ```
 
 ```{r echo = FALSE}
-map <- keafket::leaflet() %>%
+map <- leaflet::leaflet() %>%
   leaflet::addTiles(group = 'OSM') %>%
   leaflet::addProviderTiles('Esri.WorldImagery', group = 'ESRI (default)') %>%
-  leaflet::addMarkers(df_loc, df_loc$long, df_loc$lat, zoom = 20)
+  leaflet::addMarkers(df_loc, lng = df_loc$long, lat = df_loc$lat) %>%
+  leaflet::setView(lng = df_loc$long, lat = df_loc$lat, zoom = 15)
 
 mapview::mapshot(map, file = (paste0('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/map images/', df_loc$station, '_map.png'))) 
 ```
 
 ```{r echo = FALSE, out.width = '100%'}
-knitr::include_graphics(paste0('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/map images/', df_loc$station, '_map.png'))
+#knitr::include_graphics(paste0('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/map images/', df_loc$station, '_map.png'))
 ```
 
 ```{r echo = FALSE}
