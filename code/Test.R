@@ -46,6 +46,11 @@ df_av_temp <- df %>%
   dplyr::group_by(date = as.Date(datetime)) %>%
   dplyr::summarize(av_temp = mean(temp))
 
+# dataframe of total precipitation each day
+df_precip <- df %>%
+  dplyr::select(datetime, precip) %>%
+  dplyr::group_by(date = as.Date(datetime)) %>%
+  dplyr::summarize(sum(precip))
 
 #####################
 

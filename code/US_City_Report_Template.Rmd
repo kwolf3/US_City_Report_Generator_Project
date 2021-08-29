@@ -67,6 +67,14 @@ df_av_temp <- df %>%
   dplyr::summarize(av_temp = mean(temp))
 ```
 
+```{r include = FALSE}
+df_precip <- df %>%
+  dplyr::select(datetime, precip) %>%
+  dplyr::group_by(date = as.Date(datetime)) %>%
+  dplyr::summarize(sum(precip))
+```
+
+
 ## Location
 ```{r echo = FALSE}
 # map image
@@ -110,6 +118,9 @@ df_av_temp %>%
   ggtitle('Average Temperatures in July 2021') +
   theme_bw()
 ```
+
+\
+
 
 
 
