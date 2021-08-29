@@ -25,13 +25,14 @@ library(mapview)
 df_clean <- read.csv(params$file_path) %>%
   dplyr::mutate(datetime = paste(Date, Time)) %>%
   dplyr::mutate(datetime = strptime(datetime, format = '%m/%d/%y %I:%M %p')) %>%
-  dplyr::mutate(Temperature_F = gsub('°F', '', Temperature_F)) %>%
-  dplyr::mutate(DewPoint_F = gsub('°F', '', DewPoint_F)) %>%
-  dplyr::mutate(Humidity_Percentage = gsub('%', '', Humidity_Percentage)) %>%
-  dplyr::mutate(WindSpeed_mph = gsub('mph', '', WindSpeed_mph)) %>%
-  dplyr::mutate(WindGust_mph = gsub('mph', '', WindGust_mph)) %>%
-  dplyr::mutate(Pressure_in = gsub('in', '', Pressure_in)) %>%
-  dplyr::mutate(Precipitation_in = gsub('in', '', Precipitation_in))
+  dplyr::mutate(Temperature_F = as.numeric(stringr::str_trim(stringr::str_remove(Temperature_F, '°F')))) %>%
+  dplyr::mutate(DewPoint_F = as.numeric(stringr::str_trim(stringr::str_remove(DewPoint_F,'°F')))) %>% 
+  dplyr::mutate(Humidity_Percentage = as.numeric(stringr::str_trim(stringr::str_remove(Humidity_Percentage, '%')))) %>%
+  dplyr::mutate(WindSpeed_mph = as.numeric(stringr::str_trim(stringr::str_remove(WindSpeed_mph, 'mph')))) %>%
+  dplyr::mutate(WindGust_mph = as.numeric(stringr::str_trim(stringr::str_remove(WindGust_mph, 'mph')))) %>%
+  dplyr::mutate(Pressure_in = as.numeric(stringr::str_trim(stringr::str_remove(Pressure_in, 'in')))) %>%
+  dplyr::mutate(Precipitation_in = as.numeric(stringr::str_trim(stringr::str_remove(Precipitation_in, 'in'))))
+
 ```
 
 ```{r include = FALSE}
