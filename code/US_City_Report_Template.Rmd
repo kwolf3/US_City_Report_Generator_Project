@@ -50,7 +50,6 @@ df_loc <- read.csv(params$file_path2) %>%
   dplyr::slice(grep(as.character(df$station[1]), station))
 ```
 
-
 ```{r include = FALSE}
 # dataframe for temp graph
 df_temp <- df %>%
@@ -60,7 +59,17 @@ df_temp <- df %>%
                    max_temp = max(temp))
 ```
 
+```{r include = FALSE}
+# datafrmae of average temp each day
+df_av_temp <- df %>%
+  dplyr::select(datetime, temp) %>%
+  dplyr::group_by(date = as.Date(datetime)) %>%
+  dplyr::summarize(av_temp = mean(temp))
+```
+
+
 ```{r echo = FALSE}
+# map image
 map <- leaflet::leaflet() %>%
   leaflet::addTiles(group = 'OSM') %>%
   leaflet::addProviderTiles('Esri.WorldImagery', group = 'ESRI (default)') %>%
@@ -71,6 +80,7 @@ mapview::mapshot(map, file = paste0('/Users/kerstinwolf/DS Projects/GitHub/US_Ci
 ```
 
 ```{r echo = FALSE, out.width = '100%'}
+# import map image (need to do this since the image isn't appearing like it should)
 knitr::include_graphics(paste0('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/map images/', df_loc$station, '_map.png'))
 ```
 
