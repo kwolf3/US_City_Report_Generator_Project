@@ -67,7 +67,7 @@ df_av_temp <- df %>%
   dplyr::summarize(av_temp = mean(temp))
 ```
 
-
+## Location
 ```{r echo = FALSE}
 # map image
 map <- leaflet::leaflet() %>%
@@ -84,6 +84,7 @@ mapview::mapshot(map, file = paste0('/Users/kerstinwolf/DS Projects/GitHub/US_Ci
 knitr::include_graphics(paste0('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/map images/', df_loc$station, '_map.png'))
 ```
 
+## Graphs
 ```{r echo = FALSE}
 # min and max temp graph
 df_temp %>%
@@ -97,6 +98,8 @@ df_temp %>%
         legend.key.size = unit(0.5, 'cm')) +
   scale_color_manual(values = c('red' = 'red', 'blue' = 'blue'), labels = c('Maximum Temperature', 'Minimum Temperature'))
 ```
+
+\
 
 ```{r echo = FALSE}
 # average temp graph
