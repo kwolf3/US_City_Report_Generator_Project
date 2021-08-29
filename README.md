@@ -1,4 +1,4 @@
-# US_City_Report_Generator_Project - ONGOING
+# US_City_Report_Generator_Project - IN PROGRESS
 This project focuses on automating PDF report generation for numerous CSV files containing data on the weather of US cities in July 2021.
 
 **The expected completion date of this project is early September at the latest.**
