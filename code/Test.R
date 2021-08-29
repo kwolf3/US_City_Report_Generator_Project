@@ -71,10 +71,17 @@ df_temp %>%
         legend.key.size = unit(0.5, 'cm')) +
   scale_color_manual(values = c('red' = 'red', 'blue' = 'blue'), labels = c('Maximum Temperature', 'Minimum Temperature'))
 
+# average temp graph
+df_av_temp %>%
+  ggplot() +
+  geom_line(aes(x = date, y = av_temp)) +
+  labs(x = 'Date', y = 'Temperature (F)', color = '') +
+  ggtitle('Average Temperatures in July 2021') +
+  theme_bw()
+
 # total precipitation graph
 
 
-# average temp graph
 
 
 
