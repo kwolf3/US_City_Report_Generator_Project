@@ -50,7 +50,7 @@ df_av_temp <- df %>%
 df_precip <- df %>%
   dplyr::select(datetime, precip) %>%
   dplyr::group_by(date = as.Date(datetime)) %>%
-  dplyr::summarize(sum(precip))
+  dplyr::summarize(tot_precip = sum(precip))
 
 #####################
 
@@ -85,7 +85,12 @@ df_av_temp %>%
   theme_bw()
 
 # total precipitation graph
-
+df_precip %>%
+  ggplot() +
+  geom_bar(aes(x = date, y = tot_precip), stat = 'identity') +
+  labs(x = 'Date', y = 'Precipitation (in)') +
+  ggtitle('Total Precipitation per Day in July 2021') +
+  theme_bw()
 
 
 
