@@ -6,8 +6,10 @@ params:
     value: x
   report_title:
     value: x
+  station_name:
+    value: x
 title: "`r params$report_title`"
-author: "Kerstin Wolf"
+author: "`r params$station_name`"
 date: "July 2021"
 output: pdf_document
 ---
