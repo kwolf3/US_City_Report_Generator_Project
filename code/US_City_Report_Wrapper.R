@@ -1,5 +1,5 @@
 rm(list = ls())
-library(rmarkdwon)
+library(rmarkdown)
 library(leaflet)
 
 setwd('/Users/kerstinwolf/DS Projects/GitHub/US_City_Report_Generator_Project/code')
